@@ -34,7 +34,7 @@ public class Softwareregistration {
 	    }
 	    else
 	    { 
-	    System.out.println("Nombre de license max atteint - Vous ne pouvez plus creer de nouvelle license !");
+	    System.out.println("Nombre de license max atteint :) Vous ne pouvez plus creer de nouvelle license !");
 	    }
 		}
 }
